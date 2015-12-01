@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private void connectedSQLite() {
 
         objUserTABLE = new UserTABLE(this);
-    }// conectedSQLite
+    }// conected SQLite
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
